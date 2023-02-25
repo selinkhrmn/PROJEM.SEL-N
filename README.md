@@ -1,2 +1,0 @@
-# ilk başlık
-lfmf
